@@ -3,7 +3,7 @@
   <h3 align="center"><code>minimalist</code></h3>
 </p>
 
-<p align="center">Clean HTML portfolio template, responsive, open-source, and ready to use!</p>
+<p align="center">Portfolio website</p>
 
 <h6 align="center"><a href="https://imgios.github.io/minimalist/">Demo</a> · Built with <a href="https://getbootstrap.com/">Bootstrap</a></h6>
 
