@@ -12,6 +12,10 @@ html {
   scroll-behavior: smooth;
 }
 
+#gh {
+  margin-right: 10px;
+}
+
 /* Body */
 body {
   font-family: 'Roboto', serif !important;
