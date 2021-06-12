@@ -17,8 +17,10 @@ html {
 }
 
 /* Body */
-body {
-  font-family: 'Roboto', serif !important;
+body, .small {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; !important;
+  font-size: .9em;
+  line-height: 1.75em;
 }
 
 /* Header and Section */
