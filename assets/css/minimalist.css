@@ -54,6 +54,10 @@ a:hover {
   background: none;
 }
 
+#uiuc::selection{
+  background-color: #EDBB99;
+}
+
 /* User Image */
 .user-image {
   width: 140px;
