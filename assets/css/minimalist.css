@@ -5,25 +5,6 @@
 #uiuc::selection{
   background-color: #EDBB99;
 }
-/*#job0::selection{*/
-/*  background-color: #F9C618;*/
-/*}*/
-/*#job1::selection{*/
-/*  background-color: #B44AF9;*/
-/*}*/
-/*#job2::selection{*/
-/*  background-color: #EDBB99;*/
-/*}*/
-/*#job3::selection{*/
-/*  background-color: #DB5230;*/
-/*}*/
-/*#job4::selection{*/
-/*  background-color: #42DADE;*/
-/*}*/
-
-.card-title {
-  /*font-weight: bold; */
-}
 
 /* HTML */
 html {
@@ -42,8 +23,12 @@ body, .small {
 }
 
 /* Header and Section */
-header, section {
+header {
   padding-top: 3rem;
+}
+
+section {
+  padding-top: 2rem;
 }
 
 /* Anchors */
