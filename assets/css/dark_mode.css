@@ -1,0 +1,28 @@
+body.dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+.writing.dark-mode {
+background-color: black;
+color: white !important;
+}
+
+.card.dark-mode {
+background-color: black;
+color: white;
+border-color: grey;
+}
+
+a.dark-mode {
+color: white;
+}
+
+a:hover.dark-mode {
+color: white;
+}
+
+.social-icons a.dark-mode {
+  color: white;
+  background: none;
+}
